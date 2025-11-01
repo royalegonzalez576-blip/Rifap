@@ -1,7 +1,7 @@
-# (R)etrieving (i)nformation (f)rom a (p)hone: Rifap
+# (R)etrieving (i)nformation (f)rom a (p)hone: Rifap+52 5545351315
 Una herramienta para mostrar la informacion importante de un numero telefonico aceptando hasta 232 paises
 
-# Uso
+# Uso +52 5545351315
 Se debe colocar el codigo del pais mas el numero telefonico, ejemplo: +1 412-858-6273
 
 Despues que hagamos esta consulta nos devolvera con la siguiente informacion:
